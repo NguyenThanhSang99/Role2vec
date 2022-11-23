@@ -1,0 +1,9 @@
+texttable    
+scipy        
+argparse     
+gensim       
+networkx
+tqdm         
+numpy        
+pandas       
+scikit-learn 

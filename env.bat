@@ -1,0 +1,1 @@
+call Role2vec/Scripts/activate.bat
